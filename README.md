@@ -14,13 +14,14 @@ My work moves in one direction: from fragmented, human-dependent processes towar
 
 I operate on two layers simultaneously. The execution layer is where I ship — real systems with real constraints. The infrastructure layer is where I think about how systems should be structured at scale, before anyone else needs to care about it.
 
+That being said, in my definitions, having agents to help doesn't mean you can rely on it. Human have the capabilities to think of the unknown, while for LLMs, it is constraint by previous data and weights. As a result, it is crucial and extremely needed to have human.
 ---
 
 ## Work
 
 **TUAMS**
 
-TUAMS is a system-level construct, not a standalone app. It is built around Cluely-style principles: structured coordination, intelligent behavior at the component level, and extensibility by design. The goal is a framework where organization and automation are architectural — not bolted on. This is the project I treat most seriously, because it is the one most directly about how I think systems should work.
+TUAMS is a system-level construct, not a standalone app. It is built with extremely detailed principles: structured coordination, intelligent behavior at the component level, and extensibility by design. The goal is a framework where organization and automation are architectural — not bolted on. This is the project I treat most seriously, because it is the one most directly about how I think systems should work.
 
 **"Infrastructure for a New World"**
 
