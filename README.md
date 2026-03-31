@@ -14,7 +14,8 @@ My work moves in one direction: from fragmented, human-dependent processes towar
 
 I operate on two layers simultaneously. The execution layer is where I ship — real systems with real constraints. The infrastructure layer is where I think about how systems should be structured at scale, before anyone else needs to care about it.
 
-That being said, in my definitions, having agents to help doesn't mean you can rely on it. Human have the capabilities to think of the unknown, while for LLMs, it is constraint by previous data and weights. As a result, it is crucial and extremely needed to have human.
+That being said, having agents to help does not mean they can be relied on. Humans are capable of reasoning about the unknown, while LLMs are constrained by prior data and learned weights. That distinction matters, which is why human involvement remains essential.
+
 ---
 
 ## Work
