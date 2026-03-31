@@ -74,8 +74,8 @@ Previously: *Infrastructure for a New World* — on the structural conditions re
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=KevinDo-Tuan&show_icons=true&theme=dark&title_color=E8400C&icon_color=CC3300&border_color=333&bg_color=0d1117&hide_border=false&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDo-Tuan&layout=compact&theme=dark&title_color=E8400C&border_color=333&bg_color=0d1117"/>
+<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KevinDo-Tuan&show_icons=true&theme=dark&title_color=E8400C&icon_color=CC3300&border_color=333&bg_color=0d1117&count_private=true"/>
+<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinDo-Tuan&layout=compact&theme=dark&title_color=E8400C&border_color=333&bg_color=0d1117"/>
 
 </div>
 
