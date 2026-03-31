@@ -45,7 +45,7 @@ A structured framework for market analysis. Not stock picks — a decision syste
 ## Stack
 
 ```
-Languages     Python · JavaScript / TypeScript · C / C++ · SQL
+Languages     Python · JavaScript / TypeScript · C / C++ · SQL · RUST · HTML
 Backend       System design · API architecture · Data pipelines
 AI/ML         LLM integration · OCR pipelines · Computer vision
 Hardware      Embedded systems · Hardware-software interaction
