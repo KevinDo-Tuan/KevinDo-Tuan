@@ -20,7 +20,7 @@ I operate on two layers: **execution** (shipping real systems with real constrai
 
 | Project | What it does |
 |---------|-------------|
-| [**TUAMS**](https://github.com/KevinDo-Tuan/TUAMS) | System-level automation framework — structured coordination, intelligent components, extensibility by design |
+| [**TUAMS**](https://github.com/KevinDo-Tuan/TUAMS) | An invisible desktop AI assistant that provides real-time transcription, AI suggestions, and chat during meetings, interviews, and presentations. |
 | [**Decentralized-Gmail**](https://github.com/KevinDo-Tuan/Decentralized-Gmail) | Blockchain-based email — censorship-resistant, privacy-first communication |
 | [**Complaint System on ICP**](https://github.com/KevinDo-Tuan/Complaint-system-using-ICP-mainnet) | On-chain complaint management deployed on Internet Computer mainnet |
 | [**WorldMonitor**](https://github.com/KevinDo-Tuan/worldmonitor) | AI-powered global intelligence dashboard — real-time news aggregation and geopolitical monitoring |
