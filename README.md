@@ -28,7 +28,7 @@ I operate on two layers: **execution** (shipping real systems with real constrai
 
 ---
 
-### 🧠 Research & Writing
+### Research & Writing
 
 - **Infrastructure for a New World** — Research paper on why current financial and data systems are structurally inefficient, with proposals for automated, globally accessible infrastructure
 - **VC Thesis on Blockchain Infrastructure** *(in progress)* — Protocol economics, infrastructure moats, and capital formation in early-stage crypto
