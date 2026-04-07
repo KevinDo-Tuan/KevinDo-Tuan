@@ -6,9 +6,11 @@
 
 ### Hey — I'm Tuân 👋
 
-I'm a systems-first engineer from Ho Chi Minh City, incoming EE undergrad at Virginia Tech. I build infrastructure — not demos. My work moves from fragmented, human-dependent processes toward structured, automated, and scalable systems.
+I'm a electrical engineer from Ho Chi Minh City, incoming EE undergrad at Virginia Tech. My philosophy is "Tommorow has to be better than today." 
 
-I operate on two layers: **execution** (shipping real systems with real constraints) and **architecture** (thinking about how systems should scale before anyone else needs to care).
+I operate on three layers: **execution** (building systems that run consistently in constrained environments) and **architecture** (structuring systems to remain scalable and maintainable as complexity increases) **Aesthetic** (A good applications must be the one who make users comfortable).
+
+My current interests are in embedded systems, control, and the intersection of software, physical systems and design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/đỗ-phạm-tuân-56a540340)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KevinDo-Tuan)
@@ -21,9 +23,8 @@ I operate on two layers: **execution** (shipping real systems with real constrai
 | Project | What it does |
 |---------|-------------|
 | [**TUAMS**](https://github.com/KevinDo-Tuan/TUAMS) | An invisible desktop AI assistant that provides real-time transcription, AI suggestions, and chat during meetings, interviews, and presentations. |
-| [**Decentralized-Gmail**](https://github.com/KevinDo-Tuan/Decentralized-Gmail) | Blockchain-based email — censorship-resistant, privacy-first communication |
-| [**Complaint System on ICP**](https://github.com/KevinDo-Tuan/Complaint-system-using-ICP-mainnet) | On-chain complaint management deployed on Internet Computer mainnet |
-| [**AI Assistant (Mistral)**](https://github.com/KevinDo-Tuan/AI-Assistant-in-real-time-using-Mistral) | Real-time AI assistant with low-latency voice and text interaction |
+| [**Decentralized-Gmail**](https://github.com/KevinDo-Tuan/Decentralized-Gmail) | Blockchain-based email — censorship-resistant, privacy-first communication. Deploying on ICP, the only blockchain that capable of hosting full-stack, sovereign, unstoppable, secure applications|
+| [**BETA**](https://github.com/KevinDo-Tuan/BETA) | 2000+ News scrapping mindmapping in order for investors to have a comprehensive outlooks at macro-economics, geopolitical condition, so that they can invest better. News are 24 hours updated by  default and update by every run. Sources are prestige and well-known. |
 | [**SAT-Schedule-Creator**](https://github.com/KevinDo-Tuan/SAT-Schedule-Creator) | OCR → LLM pipeline that generates personalized SAT study schedules |
 
 ---
@@ -38,7 +39,7 @@ I operate on two layers: **execution** (shipping real systems with real constrai
 ### 🛠 Stack
 
 ```
-Languages       Python · TypeScript · Rust · Solidity · C/C++ · SQL
+Languages       Python · TypeScript · Rust · C/C++ · SQL · Solidity
 Blockchain      ICP · Ethereum · Solidity · Smart Contracts · DeFi · On-chain Analytics
 AI/ML           LLM Integration · Computer Vision · OCR Pipelines · NLP
 Backend         System Design · API Architecture · Data Pipelines
