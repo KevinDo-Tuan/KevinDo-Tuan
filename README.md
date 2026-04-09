@@ -24,7 +24,7 @@ My current interests are in embedded systems, control, and the intersection of s
 |---------|-------------|
 | [**TUAMS**](https://github.com/KevinDo-Tuan/TUAMS) | An invisible desktop AI assistant that provides real-time transcription, AI suggestions, and chat during meetings, interviews, and presentations. |
 | [**Decentralized-Gmail**](https://github.com/KevinDo-Tuan/Decentralized-Gmail) | Blockchain-based email — censorship-resistant, privacy-first communication. Deploying on ICP, the only blockchain that capable of hosting full-stack, sovereign, unstoppable, secure applications|
-| [**BETA**](https://github.com/KevinDo-Tuan/BETA) | 2000+ News scrapping mindmapping in order for investors to have a comprehensive outlooks at macro-economics, geopolitical condition, so that they can invest better. News are 24 hours updated by  default and update by every run. Sources are prestige and well-known. |
+| [**BETA**](https://github.com/KevinDo-Tuan/BETA) | Well-known 57+ sources, 2000+ news scrapping mindmapping in order for investors to have a comprehensive outlooks at macro-economics, geopolitical condition, so that they can invest better. News are 24 hours updated by  default and update by every run.  |
 | [**SAT-Schedule-Creator**](https://github.com/KevinDo-Tuan/SAT-Schedule-Creator) | OCR → LLM pipeline that generates personalized SAT study schedules |
 
 ---
