@@ -19,7 +19,7 @@ My current interests are in embedded systems, control, and the intersection of s
 
 ---
 
-### 🔧 What I Build
+### 👽 What I Build
 
 | Project | What it does |
 |---------|-------------|
@@ -30,14 +30,14 @@ My current interests are in embedded systems, control, and the intersection of s
 
 ---
 
-### Research & Writing
+### 🌌 Research & Writing
 
 - **Infrastructure for a New World** — Research paper on why current financial and data systems are structurally inefficient, with proposals for automated, globally accessible infrastructure
 - **VC Thesis on Blockchain Infrastructure** *(in progress)* — Protocol economics, infrastructure moats, and capital formation in early-stage crypto
 
 ---
 
-### 🛠 Stack
+### 🪐 Stack
 
 ```
 Languages       Python · TypeScript · Rust · C/C++ · SQL · Solidity
@@ -50,7 +50,7 @@ Finance         DCF Modeling · Risk Frameworks · Tokenomics
 
 ---
 
-### 📊 Stats
+### 🛰️ Stats
 
 <div align="center">
 
