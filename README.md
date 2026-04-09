@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8400C,CC3300&height=180&section=header&text=Tuân&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Systems%20builder%20·%20Blockchain%20researcher%20·%20EE%20undergrad&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+![pulsar-831502910 (1)](https://github.com/user-attachments/assets/14baf82c-7b7b-434c-8580-ef04e65b5e34)
+
 
 </div>
 
