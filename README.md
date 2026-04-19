@@ -5,7 +5,7 @@
 
 </div>
 
-### Hey — I'm Pham Tuân 
+### Hi — I'm Pham Tuân 
 
 I'm a electrical engineer from Ho Chi Minh City, incoming EE undergrad at Virginia Tech. My philosophy is "Tommorow has to be better than today." 
 
