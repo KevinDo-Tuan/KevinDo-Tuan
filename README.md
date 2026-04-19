@@ -9,7 +9,7 @@
 
 I'm a electrical engineer from Ho Chi Minh City, incoming EE undergrad at Virginia Tech. My philosophy is "Tommorow has to be better than today." 
 
-I operate on three layers: **execution** (building systems that run consistently in constrained environments) and **architecture** (structuring systems to remain scalable and maintainable as complexity increases) **Aesthetic** (A good applications must be the one who make users comfortable).
+I build on these three layers: **execution** (building systems that run consistently in constrained environments) and **architecture** (structuring systems to remain scalable and maintainable as complexity increases) **Aesthetic** (A good applications must be the one who make users comfortable).
 
 My current interests are in Embedded Systems, Blockchain architecture, and Decentralized Finance
 
