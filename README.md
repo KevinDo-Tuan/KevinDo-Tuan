@@ -11,7 +11,7 @@ I'm a electrical engineer from Ho Chi Minh City, incoming EE undergrad at Virgin
 
 I operate on three layers: **execution** (building systems that run consistently in constrained environments) and **architecture** (structuring systems to remain scalable and maintainable as complexity increases) **Aesthetic** (A good applications must be the one who make users comfortable).
 
-My current interests are in embedded systems, control, and the intersection of software, physical systems and design.
+My current interests are in Embedded Systems, Blockchain architecture, and Decentralized Finance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/đỗ-phạm-tuân-56a540340)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KevinDo-Tuan)
