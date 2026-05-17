@@ -27,6 +27,8 @@ My current interests are in Embedded Systems, Blockchain architecture, and Decen
 | [**Decentralized-Gmail**](https://github.com/KevinDo-Tuan/Decentralized-Gmail) | Blockchain-based email — censorship-resistant, privacy-first communication. Deploying on ICP, the only blockchain that capable of hosting full-stack, sovereign, unstoppable, secure applications|
 | [**BETA**](https://github.com/KevinDo-Tuan/BETA) | Well-known 57+ sources, 2000+ news scrapping and mindmapping in order for investors to have a comprehensive outlooks at macro-economics, geopolitical condition, so that they can invest better. News are 24 hours updated by  default and update by every run.  |
 | [**SAT-Schedule-Creator**](https://github.com/KevinDo-Tuan/SAT-Schedule-Creator) | OCR → LLM pipeline that generates personalized SAT study schedules |
+| [**DeFi-Focus-app**](https://github.com/KevinDo-Tuan/DeFi-Focus-app) | Solana-powered focus app for Android. Blocks distracting apps via native overlay during deep-work sessions and pays users in LOCK — its own SPL token, purchasable with fiat via Stripe. Full-stack: React Native, Anchor, Node/Express. |
+
 
 ---
 
